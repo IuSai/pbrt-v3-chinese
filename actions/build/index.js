@@ -1,6 +1,6 @@
 const core = require("@actions/core");
 const github = require("@actions/github");
-const markdown_to_github_pages = require("@shinganeuler/markdown-to-github-pages");
+const markdown_to_github_pages = require("markdown-to-github-pages");
 const fs = require('fs');
 
 try {
