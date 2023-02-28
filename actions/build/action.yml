@@ -1,0 +1,15 @@
+name: 'Build Markdown To GitHub Pages With katex'
+description: 'Build Markdown To GitHub Pages With katex'
+author: 'shinganEuler'
+inputs:
+  source:
+    description: 'Directory where the source files reside.'
+    required: false
+    default: ./
+  destination:
+    description: 'Output directory of the build. Although it can be nested inside the source, it cannot be the same as the source directory.'
+    required: false
+    default: ./_site
+runs:
+  using: 'node'
+  image: 'index.js'
