@@ -2,6 +2,7 @@ const core = require("@actions/core");
 const github = require("@actions/github");
 const markdown_to_github_pages = require("markdown-to-github-pages");
 const fs = require('fs');
+const path = require("path");
 
 try {
     const source = core.getInput("source");
