@@ -12,4 +12,4 @@ inputs:
     default: ./_site
 runs:
   using: 'node12'
-  image: 'index.js'
+  main: 'index.js'
