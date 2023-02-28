@@ -11,5 +11,5 @@ inputs:
     required: false
     default: ./_site
 runs:
-  using: 'node12'
+  using: 'node16'
   main: 'index.js'

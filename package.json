@@ -1,0 +1,25 @@
+{
+  "name": "pbrt-v3-chinese",
+  "version": "1.0.0",
+  "description": "[Physically Based Rendering: From Theory To Implementation 3rd / 基于物理的渲染：从理论到实现第三版](https://shinganeuler.github.io/pbrt-v3-chinese/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinganEuler/pbrt-v3-chinese.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shinganEuler/pbrt-v3-chinese/issues"
+  },
+  "homepage": "https://github.com/shinganEuler/pbrt-v3-chinese#readme",
+  "dependencies": {
+    "@actions/core": "^1.10.0",
+    "@actions/github": "^5.1.1",
+    "markdown-to-github-pages": "^1.0.1"
+  }
+}
