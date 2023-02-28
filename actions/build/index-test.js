@@ -5,8 +5,8 @@ const fs = require('fs');
 const path = require("path");
 
 try {
-    const source = core.getInput("source");
-    const destination = core.getInput("destination");
+    const source = "./Contents/";
+    const destination = "./_site/";
     console.log(`source ${source}!`);
     console.log(`destination ${destination}!`);
 
