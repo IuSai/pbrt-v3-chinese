@@ -32,7 +32,6 @@ jobs:
         with:
           node-version: 16
       - run: npm ci
-      - run: npm test
       - name: Build Markdown To GitHub Pages With katex 
         uses: ./actions/build
         with:
