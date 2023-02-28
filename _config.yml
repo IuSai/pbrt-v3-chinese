@@ -1,1 +1,7 @@
-title: "Physically Based Rendering: From Theory To Implementation 3rd / 基于物理的渲染：从理论到实现第三版"
+title: ""
+url: ""
+
+template:
+  head: ""
+  body: "<h1 href='https://shinganeuler.github.io/pbrt-v3-chinese'>Physically Based Rendering: From Theory To Implementation 3rd / 基于物理的渲染：从理论到实现第三版<h1>"
+  foot: ""
