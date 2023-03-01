@@ -7,11 +7,12 @@ const path = require("path");
 try {
     const source = core.getInput("source");
     const destination = core.getInput("destination");
+    const config = core.getInput("config");
     console.log(`source ${source}!`);
     console.log(`destination ${destination}!`);
 
     (async () => {
-        await markdown_to_github_pages.generateGithubPages(source, destination);
+        await markdown_to_github_pages.generateGithubPages(source, destination, config);
     })();
 } catch (error) {
     core.setFailed(error.message);

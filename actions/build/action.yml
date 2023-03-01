@@ -10,6 +10,10 @@ inputs:
     description: 'Output directory of the build. Although it can be nested inside the source, it cannot be the same as the source directory.'
     required: false
     default: ./_site
+  config:
+    description: 'Configuration file for the build.'
+    required: false
+    default: ./_config.yml
 runs:
   using: 'node16'
   main: 'index.js'
