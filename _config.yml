@@ -4,4 +4,4 @@ url: "https://shinganeuler.github.io/pbrt-v3-chinese/"
 template:
   head: "<!-- Google tag (gtag.js) --><script async src=\"https://www.googletagmanager.com/gtag/js?id=G-KY524099KH\"></script><script>  window.dataLayer = window.dataLayer || [];  function gtag()dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'G-KY524099KH');</script><meta name=\"google-site-verification\" content=\"-PSXlmvod7yFUB9UrT29Nu8NEeOXZ6ndIKjP7tzLrt8\" />"
   body: "<div class=\"mume markdown-preview  \"><h1><a href=\"https://shinganeuler.github.io/pbrt-v3-chinese\">Physically Based Rendering: From Theory To Implementation 3rd / 基于物理的渲染：从理论到实现第三版<a></h1></div>"
-  foot: ""
+  foot: "<br/><br/><br/><div><h2><a href=\"https://github.com/shinganEuler/pbrt-v3-chinese\">Physically Based Rendering: From Theory To Implementation 3rd / 基于物理的渲染：从理论到实现第三版<a></h2></div>"
