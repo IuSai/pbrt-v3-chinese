@@ -1161,10 +1161,10 @@
     "pify" "^4.0.1"
     "semver" "^5.6.0"
 
-"markdown-to-github-pages@^1.0.40":
-  "integrity" "sha512-rL5teH/ZyjdOyJMbnFS7/gdBk8c4lGYJXgzxafMgcdLpSv4hika+R3IKvCpTH+DX5wVkgn948pEjcPBSx4qW3Q=="
-  "resolved" "https://registry.npmjs.org/markdown-to-github-pages/-/markdown-to-github-pages-1.0.40.tgz"
-  "version" "1.0.40"
+"markdown-to-github-pages@^1.0.41":
+  "integrity" "sha512-LTvFhHP5Y+P9C4UrazA3/R2F6+ZqDovu7M3Qd/MwAj+7qaGYO7WzymNTIBfJIyUCpQgIiDoQ/NOnI0klRaO4ZQ=="
+  "resolved" "https://registry.npmjs.org/markdown-to-github-pages/-/markdown-to-github-pages-1.0.41.tgz"
+  "version" "1.0.41"
   dependencies:
     "@shd101wyy/mume" "^0.7.5"
     "cheerio" "^1.0.0-rc.12"
